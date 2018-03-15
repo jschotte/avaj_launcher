@@ -1,1 +1,1 @@
-![]("https://github.com/jschotte/avaj_launcher/avaj_uml.jpg?raw=true)
+![]("https://github.com/jschotte/avaj_launcher/blob/master/avaj_uml.jpg?raw=true)
